@@ -132,4 +132,9 @@ Although it’s technically a free offering from Microsoft, using ADFS can pose 
 
 ![image](https://github.com/rakeshgowdan/Resource-security-protocols/assets/41374671/aa8dc6dd-6af0-4f79-bbe3-42e3f990ce43)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/rakeshgowdan/Resource-security-protocols/assets/41374671/c1e32269-30b0-46aa-bb73-f551eb5f80f1)
+
+
 
