@@ -127,3 +127,9 @@ It’s cumbersome to use when integrating with cloud or non-Microsoft mobile app
 It requires IT resources to install, configure, and maintain
 It’s difficult to scale and requires tedious application installations
 Although it’s technically a free offering from Microsoft, using ADFS can pose hidden costly under-the-hood issues, like the IT costs to maintain it.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/rakeshgowdan/Resource-security-protocols/assets/41374671/aa8dc6dd-6af0-4f79-bbe3-42e3f990ce43)
+
+
